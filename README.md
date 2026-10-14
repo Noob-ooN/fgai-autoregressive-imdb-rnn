@@ -51,10 +51,10 @@ python -m venv .venv
 .venv\Scripts\Activate.ps1
 # macOS/Linux: source .venv/bin/activate
 python -m pip install -r requirements.txt
-python autoregressive_imdb.py --epochs 4 --output results
+python autoregressive_imdb.py --epochs 4 --output results_reproduced
 ```
 
-The first run downloads the roughly 84 MB original archive into `data/`. The script reads reviews directly from the archive without extracting it. CPU is the default and uses four computation threads. Optional GPU run: `python autoregressive_imdb.py --device cuda --output results_gpu`. Run on the same device for all four architectures. An existing nonempty output folder is rejected to preserve previous results.
+The first run downloads the roughly 84 MB original archive into `data/`. The script reads reviews directly from the archive without extracting it. CPU is the default and uses four computation threads. Optional GPU run: `python autoregressive_imdb.py --device cuda --output results_gpu`. Run on the same device for all four architectures. The supplied measurements are in `results/`; the command above writes a fresh run to `results_reproduced`. An existing nonempty output folder is rejected to preserve previous results.
 
 Alternatively, open `autoregressive_imdb.ipynb` in Jupyter or Colab after installing the dependencies, and run its cells in order. It writes to `results_notebook` and includes the entire implementation. The notebook is supplied with empty execution outputs; the completed measured experiment is in `results/`.
 
