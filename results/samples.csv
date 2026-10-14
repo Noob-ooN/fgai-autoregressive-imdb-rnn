@@ -1,0 +1,109 @@
+model,seed,temperature,replicate,sampling_seed,continuation,length,distinct_1,distinct_2,repeated_bigram_fraction
+Simple RNN,the movie was,0.2,0,42,,0,,,
+Simple RNN,the movie was,0.2,1,43,a lot of the movie . the movie was a great movie . the acting is a movie .,19,0.5263157894736842,0.7777777777777778,0.2222222222222222
+Simple RNN,the movie was,0.2,2,44,"a great movie . i was a lot of the movie , and",13,0.8461538461538461,1.0,0.0
+Simple RNN,the movie was,0.7,0,42,,0,,,
+Simple RNN,the movie was,0.7,1,43,a forgotten,2,1.0,1.0,0.0
+Simple RNN,the movie was,0.7,2,44,also to say for the story . i was going to not only,13,0.9230769230769231,1.0,0.0
+Simple RNN,the movie was,1.2,0,42,,0,,,
+Simple RNN,the movie was,1.2,1,43,"released animation dude have a risk honest masterpiece people , one day going to must they get his entire black s fay and follows",24,1.0,1.0,0.0
+Simple RNN,the movie was,1.2,2,44,"also come it . rejected story told is a southern full time , because the visual season it's useless just make the 24 deserves , directly , i goodness this show looks one clues . an home buy an cover of the worst movie in the",46,0.8478260869565217,1.0,0.0
+Simple RNN,the story and the characters,0.2,0,1042,are,1,1.0,,
+Simple RNN,the story and the characters,0.2,1,1043,"are so bad , but i was a movie . the movie is a wonderful movie . the main movie is a wonderful movie .",25,0.56,0.7083333333333334,0.29166666666666663
+Simple RNN,the story and the characters,0.2,2,1044,are not,2,1.0,1.0,0.0
+Simple RNN,the story and the characters,0.7,0,1042,", the characters , look may see bad and i have been the worst things",15,0.8666666666666667,1.0,0.0
+Simple RNN,the story and the characters,0.7,1,1043,are so times the,4,1.0,1.0,0.0
+Simple RNN,the story and the characters,0.7,2,1044,"are similarly . this movie was working bad , i can ignore it .",14,0.9285714285714286,1.0,0.0
+Simple RNN,the story and the characters,1.2,0,1042,", bored better a look may see bad two another combination of the body things causes with tone up sequence . the hunt keeps up drama ! good , the history stone understanding ok standard acting . , this was lost andy , coming off that von it reminds is",50,0.86,1.0,0.0
+Simple RNN,the story and the characters,1.2,1,1043,are decided to the perfectly i thought this movie was scripted 25 the user zone of us dead about basketball teen saving dropping surprised and,25,0.96,1.0,0.0
+Simple RNN,the story and the characters,1.2,2,1044,"matthau similarly . boy made to i'll sake . i can ignore it speaking , i'm become popular ? disappointed with what can turns ? good has great series . but there's truly call ,",35,0.8571428571428571,1.0,0.0
+Simple RNN,i really enjoyed this film because,0.2,0,2042,it is a great movie . the main characters are not,11,1.0,1.0,0.0
+Simple RNN,i really enjoyed this film because,0.2,1,2043,it was a good movie . the main movie is a great movie . the main movie is a great movie . the movie is a wonderful movie . i was a lot of the,35,0.4,0.5882352941176471,0.4117647058823529
+Simple RNN,i really enjoyed this film because,0.2,2,2044,it was,2,1.0,1.0,0.0
+Simple RNN,i really enjoyed this film because,0.7,0,2042,it . so but i have ever seen . the plot is,12,0.9166666666666666,1.0,0.0
+Simple RNN,i really enjoyed this film because,0.7,1,2043,"about the film , but a",6,1.0,1.0,0.0
+Simple RNN,i really enjoyed this film because,0.7,2,2044,it was not,3,1.0,1.0,0.0
+Simple RNN,i really enjoyed this film because,1.2,0,2042,"it with place about a lot to tell sure seen on no plot up what's the guy with the cop detective of pretty my favorite good awful throughout lacking , team stephen executed",33,0.9393939393939394,1.0,0.0
+Simple RNN,i really enjoyed this film because,1.2,1,2043,"draw to keep himself , a escaped drama about my life one . which is he's very great starts going cop part ! which once shows comedy ? that i even painfully it talking to",35,0.9428571428571428,1.0,0.0
+Simple RNN,i really enjoyed this film because,1.2,2,2044,6 than strictly and fat to watch it was because bad as heard . tedious,15,1.0,1.0,0.0
+Bidirectional RNN,the movie was,0.2,0,42,a great movie . i was a few,8,0.875,1.0,0.0
+Bidirectional RNN,the movie was,0.2,1,43,a movie . i was great to be a movie . i thought it was a movie . . . . . . . . . . . . . . . .,33,0.30303030303030304,0.40625,0.59375
+Bidirectional RNN,the movie was,0.2,2,44,a good movie . i was a good movie . i was extremely,13,0.5384615384615384,0.5833333333333334,0.41666666666666663
+Bidirectional RNN,the movie was,0.7,0,42,"not to watch it , and i up",8,1.0,1.0,0.0
+Bidirectional RNN,the movie was,0.7,1,43,"a forgotten of the movie were care of people , the movie",12,0.75,0.9090909090909091,0.09090909090909094
+Bidirectional RNN,the movie was,0.7,2,44,"also . it . i didn't it at a fan of time ,",13,0.8461538461538461,1.0,0.0
+Bidirectional RNN,the movie was,1.2,0,42,"bob to my own , night british up",8,1.0,1.0,0.0
+Bidirectional RNN,the movie was,1.2,1,43,released animation dude meaning adam risk honest liu people i genre you going forgotten must they get awful . unrealistic,20,1.0,1.0,0.0
+Bidirectional RNN,the movie was,1.2,2,44,"witty . it . rejected story told s idiotic and full , literally",13,0.9230769230769231,1.0,0.0
+Bidirectional RNN,the story and the characters,0.2,0,1042,", the acting is the movie . i was watching this movie . the acting was",16,0.625,0.8666666666666667,0.1333333333333333
+Bidirectional RNN,the story and the characters,0.2,1,1043,", the acting was a movie . i was a movie . the",13,0.6153846153846154,0.75,0.25
+Bidirectional RNN,the story and the characters,0.2,2,1044,", i was a movie . i was a few movie . i was not a movie . the movie was a lot of the movie . the plot is",30,0.43333333333333335,0.6206896551724138,0.3793103448275862
+Bidirectional RNN,the story and the characters,0.7,0,1042,", the acting is awful . it is a different",10,0.9,1.0,0.0
+Bidirectional RNN,the story and the characters,0.7,1,1043,of the acting was going . anyone . just the movie was the user .,15,0.6666666666666666,1.0,0.0
+Bidirectional RNN,the story and the characters,0.7,2,1044,"are no such to be a lot of a far that it at the movie . i love the movie , what one and alice",25,0.88,0.9583333333333334,0.04166666666666663
+Bidirectional RNN,the story and the characters,1.2,0,1042,", bored better a look may see bad two another two dislike after to things how with tone up visually . the beside keeps up drama ! good , up based stone understanding ok standard acting . , this wives battle andy , but this carol be it him is",50,0.84,1.0,0.0
+Bidirectional RNN,the story and the characters,1.2,1,1043,of decided to the next i thought this movie took white 25 the user . especially i have seen basketball to say this surprised show,25,0.84,1.0,0.0
+Bidirectional RNN,the story and the characters,1.2,2,1044,"where similarly such history to see i'll sake , i can ignore with the movie . become popular ? , the ending 3 bland alice some antics great stories . but there's truly call ,",35,0.8857142857142857,1.0,0.0
+Bidirectional RNN,i really enjoyed this film because,0.2,0,2042,it was a good movie . i was a few . . . . . i was a little movie . i love it,24,0.4166666666666667,0.6086956521739131,0.3913043478260869
+Bidirectional RNN,i really enjoyed this film because,0.2,1,2043,"i was a good movie . i was the same movie . the acting is a very good , but it was a good",24,0.5833333333333334,0.8260869565217391,0.17391304347826086
+Bidirectional RNN,i really enjoyed this film because,0.2,2,2044,i was expecting and the movie is a few of the movie . i was going to the,18,0.7222222222222222,0.8823529411764706,0.11764705882352944
+Bidirectional RNN,i really enjoyed this film because,0.7,0,2042,it . i have watched it all to say that it was,12,0.8333333333333334,1.0,0.0
+Bidirectional RNN,i really enjoyed this film because,0.7,1,2043,"the film film , but a . i love it is one of the film . but for any",19,0.7368421052631579,0.9444444444444444,0.05555555555555558
+Bidirectional RNN,i really enjoyed this film because,0.7,2,2044,i was not seen . i had it was because it was heard . i'm i still,17,0.6470588235294118,0.9375,0.0625
+Bidirectional RNN,i really enjoyed this film because,1.2,0,2042,"it also place about a lot to tell sure seen on special or bugs what's up anymore money , versions about of accept my favorite good awful throughout lacking , team stephen executed",33,0.9393939393939394,1.0,0.0
+Bidirectional RNN,i really enjoyed this film because,1.2,1,2043,draw to keep friend impressed a escaped drama about my life one lives which is he's very saturday starts get cop part or which once for their ? that i fall painfully to marry it,35,0.9428571428571428,1.0,0.0
+Bidirectional RNN,i really enjoyed this film because,1.2,2,2044,6 than strictly and . i had my favorite 80 bad week heard . tedious rated martial woods . the first than i've seen doubt kids . i believe well know at the stellar s sets best work if creating friends which,42,0.8571428571428571,0.975609756097561,0.024390243902439046
+LSTM,the movie was,0.2,0,42,,0,,,
+LSTM,the movie was,0.2,1,43,a,1,1.0,,
+LSTM,the movie was,0.2,2,44,a,1,1.0,,
+LSTM,the movie was,0.7,0,42,,0,,,
+LSTM,the movie was,0.7,1,43,a,1,1.0,,
+LSTM,the movie was,0.7,2,44,"also . it is not a life . the story , not only",13,0.8461538461538461,1.0,0.0
+LSTM,the movie was,1.2,0,42,"bob to open among , with british up",8,1.0,1.0,0.0
+LSTM,the movie was,1.2,1,43,"flaws animation was meaning adam famous claim liu people , the bomb going to must be him awful . it's not fay remember for driving these dick modern for gandhi seeing every magic will appear certainly possible directed . the producers , only many other time who only ! to",50,0.88,1.0,0.0
+LSTM,the movie was,1.2,2,44,witty . it . rejected story told s idiotic and full not lost,13,0.9230769230769231,1.0,0.0
+LSTM,the story and the characters,0.2,0,1042,", the movie is a movie .",7,0.8571428571428571,1.0,0.0
+LSTM,the story and the characters,0.2,1,1043,and the,2,1.0,1.0,0.0
+LSTM,the story and the characters,0.2,2,1044,are,1,1.0,,
+LSTM,the story and the characters,0.7,0,1042,", the big supporting look may see this movie .",10,1.0,1.0,0.0
+LSTM,the story and the characters,0.7,1,1043,"and did a low budget movie to be just the world of the first movie , i have seen . the time and surprised and",25,0.8,1.0,0.0
+LSTM,the story and the characters,0.7,2,1044,"are french . this movie to watch it . i was a black speaking ,",15,0.9333333333333333,1.0,0.0
+LSTM,the story and the characters,1.2,0,1042,", bored better supporting look may see bad two another york will see to things how with tone up visually . the film's keeps to start ! good , the history stone about ok standard acting . , this was battle andy , is off that von dealing him from",50,0.86,1.0,0.0
+LSTM,the story and the characters,1.2,1,1043,"and decided to the next likely to be movie . white 25 actual user shape centers , but about basketball until when this surprised and",25,0.92,1.0,0.0
+LSTM,the story and the characters,1.2,2,1044,"where although such history to see i'll sake , i can ignore it speaking , i'm become popular ? , the ending can turns ? some one great series . but there's truly call your edge imagination in many for length deserves as a sister in time . since the",50,0.86,1.0,0.0
+LSTM,i really enjoyed this film because,0.2,0,2042,it is a,3,1.0,1.0,0.0
+LSTM,i really enjoyed this film because,0.2,1,2043,it was a movie . i was,7,0.8571428571428571,1.0,0.0
+LSTM,i really enjoyed this film because,0.2,2,2044,it was,2,1.0,1.0,0.0
+LSTM,i really enjoyed this film because,0.7,0,2042,it . so but i have ever seen . the plot is,12,0.9166666666666666,1.0,0.0
+LSTM,i really enjoyed this film because,0.7,1,2043,"the film . i would have the worst movie , but the storyline is a few of",17,0.8823529411764706,1.0,0.0
+LSTM,i really enjoyed this film because,0.7,2,2044,it does not seen . i had it was seen . as heard . i'm rated,16,0.75,0.9333333333333333,0.06666666666666665
+LSTM,i really enjoyed this film because,1.2,0,2042,"it with place about a lot to tell sure seen on they or bugs what's up anymore everything for cop about of pretty my performances good awful throughout lacking , team stephen executed",33,0.9696969696969697,1.0,0.0
+LSTM,i really enjoyed this film because,1.2,1,2043,draw,1,1.0,,
+LSTM,i really enjoyed this film because,1.2,2,2044,6 than strictly and . i had my was 80 bad as heard . tedious i've seen woods . 1 i hate i've seen if you have he believe one without at the stellar s sets their work if creating friends which,42,0.8571428571428571,0.975609756097561,0.024390243902439046
+GRU,the movie was,0.2,0,42,a great movie . i was a movie . i was going to,13,0.6153846153846154,0.75,0.25
+GRU,the movie was,0.2,1,43,a movie . i was a lot of the movie . i was,13,0.6153846153846154,0.75,0.25
+GRU,the movie was,0.2,2,44,a great movie . i was a lot of the movie . i,13,0.6923076923076923,0.8333333333333334,0.16666666666666663
+GRU,the movie was,0.7,0,42,not great to describe that i don't up,8,1.0,1.0,0.0
+GRU,the movie was,0.7,1,43,"a forgotten dude have a lot of a people , but you",12,0.8333333333333334,1.0,0.0
+GRU,the movie was,0.7,2,44,"also great ! . i didn't told i saw a movie , especially",13,0.9230769230769231,1.0,0.0
+GRU,the movie was,1.2,0,42,"bob to my own , night british up",8,1.0,1.0,0.0
+GRU,the movie was,1.2,1,43,"henry animation dude meaning adam risk honest liu people , one but going to must they get his entire unrealistic",20,1.0,1.0,0.0
+GRU,the movie was,1.2,2,44,"witty . it funniest rejected actor . s idiotic and full , lost",13,0.9230769230769231,1.0,0.0
+GRU,the story and the characters,0.2,0,1042,"are a few , but i don't know it . i",11,0.9090909090909091,1.0,0.0
+GRU,the story and the characters,0.2,1,1043,are a movie . i don't think it . i was,11,0.8181818181818182,0.9,0.09999999999999998
+GRU,the story and the characters,0.2,2,1044,are a movie . i was a lot of the movie .,12,0.75,0.9090909090909091,0.09090909090909094
+GRU,the story and the characters,0.7,0,1042,"was a big tv version of the original and i still so after it things was with that i did not the big reasons to sit ! it , the movie . i was not many . , this was so well , but i thought it was hooked on",50,0.66,1.0,0.0
+GRU,the story and the characters,0.7,1,1043,"are decided to the worst movie to be a strange movie . the first is not , but it wasn't much when this show show",25,0.84,1.0,0.0
+GRU,the story and the characters,0.7,2,1044,are french . this movie has been as a message .,11,0.9090909090909091,1.0,0.0
+GRU,the story and the characters,1.2,0,1042,"was bored with a look may see bad two another brian dislike the kid things causes with tone up visually . the beside keeps up drama ! good , the history stone familiar ok standard acting . , this wives battle andy , is off that von dealing him ?",50,0.86,1.0,0.0
+GRU,the story and the characters,1.2,1,1043,are decided to the perfectly i thought this movie was my 25 the user . especially i some about ever brilliant when this surprised show,25,0.88,1.0,0.0
+GRU,the story and the characters,1.2,2,1044,"stupidity similarly that boy made to i'll sake , i still so much speaking , i'm become popular ? because the ending actors and alice 6 and great stories . but could meet ! your",35,0.9428571428571428,1.0,0.0
+GRU,i really enjoyed this film because,0.2,0,2042,i have seen it . i was a lot of the film . i was a lot of the movie . i was a lot of the movie . i was a movie . i was a lot of the movie .,42,0.2857142857142857,0.36585365853658536,0.6341463414634146
+GRU,i really enjoyed this film because,0.2,1,2043,i was a movie . i was a movie . i can see it . i was going to the worst movie . i was a big fan of the movie . i was a lot of the film . i was a movie .,45,0.37777777777777777,0.5227272727272727,0.4772727272727273
+GRU,i really enjoyed this film because,0.2,2,2044,i was a movie . i was a lot of the movie . i was a few,17,0.5294117647058824,0.625,0.375
+GRU,i really enjoyed this film because,0.7,0,2042,it was so about it . it's a wonderful car years .,12,0.8333333333333334,1.0,0.0
+GRU,i really enjoyed this film because,0.7,1,2043,i was an expecting impressed on the worst movie is that one of the film . i thought it was a suspense or which was for a movie . i could interested to watch it,35,0.7428571428571429,0.9705882352941176,0.02941176470588236
+GRU,i really enjoyed this film because,0.7,2,2044,"i was not seen . i had my favorite 80 s and heard . i'm rated a script . i read what i've seen , but it was bad from the show to go so sets and i can",39,0.7948717948717948,0.9736842105263158,0.02631578947368418
+GRU,i really enjoyed this film because,1.2,0,2042,"it with place about a lot great 2006 radio seen on no or bugs what's up anymore everything years cop about of accept my favorite good awful throughout lacking , team stephen executed because however did it's just live on all is",42,0.9523809523809523,1.0,0.0
+GRU,i really enjoyed this film because,1.2,1,2043,draw to keep believe my bother . i about my life one . which is he's very great starts going cop forever or which once for their ? sister with killer painfully player talking to,35,0.8857142857142857,1.0,0.0
+GRU,i really enjoyed this film because,1.2,2,2044,"i was quite watching . i had my was 80 bad as heard . tedious i've seen impressed . 1 awful than i've seen if you agree he , well without at the stellar but sets best happiness .",39,0.8205128205128205,0.9736842105263158,0.02631578947368418

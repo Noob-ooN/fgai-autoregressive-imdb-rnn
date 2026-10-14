@@ -1,0 +1,35 @@
+{
+  "reviews": 5000,
+  "max_tokens": 80,
+  "context": 16,
+  "stride": 4,
+  "vocab_size": 4000,
+  "embedding": 64,
+  "hidden": 64,
+  "epochs": 4,
+  "batch_size": 256,
+  "lr": 0.003,
+  "seed": 42,
+  "threads": 4,
+  "device": "cpu",
+  "data_dir": "data",
+  "output": "results",
+  "device_used": "cpu",
+  "python": "3.12.14",
+  "torch": "2.14.1+cpu",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+  "vocabulary_actual": 4000,
+  "split_reviews": [
+    4000,
+    500,
+    500
+  ],
+  "split_windows": [
+    82842,
+    10368,
+    10289
+  ],
+  "dataset_source": "https://ai.stanford.edu/~amaas/data/sentiment/",
+  "archive_sha256": "c40f74a18d3b61f90feba1e17730e0d38e8b97c05fde7008942e91923d1658fe"
+}
