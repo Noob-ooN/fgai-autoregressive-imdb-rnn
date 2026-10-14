@@ -1,0 +1,5 @@
+.deps/
+data/
+__pycache__/
+*.pyc
+results/checkpoints/
