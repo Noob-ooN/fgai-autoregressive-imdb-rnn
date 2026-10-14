@@ -173,7 +173,7 @@ results/
 
 Upload the script, dependencies, README, results, plots, and generated samples to a clearly named GitHub repository. Raw data and local dependency files are excluded. If required, add model weights explicitly or attach them as release assets. For a private repository, provide evaluator access.
 
-The assignment also requires a Word document named `YourName_RegNum_FGAI_Assignment2.docx`, containing student name, registration number, assignment title, system title, dataset name/link, and GitHub repository link. Convert that document to PDF and submit it to the specified LMS section. The repository is published at [Noob-ooN/fgai-autoregressive-imdb-rnn](https://github.com/Noob-ooN/fgai-autoregressive-imdb-rnn). A student-details PDF with editable name and registration-number placeholders is supplied as `YourName_RegNum_FGAI_Assignment2.pdf`; fill these fields and rename the document before submitting to LMS.
+The assignment also requires a Word document named `YourName_RegNum_FGAI_Assignment2.docx`, containing student name, registration number, assignment title, system title, dataset name/link, and GitHub repository link. Convert that document to PDF and submit it to the specified LMS section. The repository is published at [Noob-ooN/fgai-autoregressive-imdb-rnn](https://github.com/Noob-ooN/fgai-autoregressive-imdb-rnn). The completed student-details Word document is supplied as [AnvithChoudharyJasti_230953358_FGAI_Assignment2.docx](AnvithChoudharyJasti_230953358_FGAI_Assignment2.docx). Convert this document to PDF for LMS submission as required by the assignment.
 
 ## Implementation references
 
